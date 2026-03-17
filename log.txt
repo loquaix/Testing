@@ -11,3 +11,4 @@ Game
 Name
 Mew
 Shift
+Rini
