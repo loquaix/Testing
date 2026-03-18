@@ -26,3 +26,4 @@ Baru
 Kel
 Mel
 Sel
+Gel
