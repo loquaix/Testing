@@ -25,3 +25,4 @@ Laru
 Baru
 Kel
 Mel
+Sel
